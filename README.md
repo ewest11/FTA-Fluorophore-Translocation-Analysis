@@ -1,6 +1,6 @@
 # FTA-Fluorophore-Translocation-Analysis
 
-This code was developed to analyze colocalization data from Gutnick et al., 2018. The code was developed on MATLAB 2016b and requires the MATLAB [Image Processing Toolbox](https://www.mathworks.com/products/image.html) and the OME's [Bio-Format's library](http://www.openmicroscopy.org/bio-formats/) (developed with version 5.9.1).
+This code was developed to analyze colocalization data from Gutnick et al., 2019. The code was developed on MATLAB 2016b and requires the MATLAB [Image Processing Toolbox](https://www.mathworks.com/products/image.html) and the OME's [Bio-Format's library](http://www.openmicroscopy.org/bio-formats/) (developed with version 5.9.1).
 
 The code segments 2-D fluorescent images with cytoplasmic, nuclear, and organel (mitochondrial) signals. Specifically, the code calculates the ratio of signal colocalization between two channels across an image stack.
 
