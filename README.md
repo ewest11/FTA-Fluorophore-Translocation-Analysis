@@ -29,7 +29,7 @@ In this folder you will find all functions and sample images needed to run the m
 
 To test this function on our sample images, run the following line:
 ```matlab
->> [ColocalizationRatio] = FT_colocalization('dsRed.tif', 'YFP.tif', 'nucleus.tif', 0.8, 0.4, 0.95)
+>> [ColocalizationRatio] = FT_colocalization('mito.tif', 'YFP.tif', 'nucleus.tif', 0.8, 0.4, 0.95)
 ```
 
 Questions?
